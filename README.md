@@ -7,4 +7,4 @@ This mini-project is a deconstruct an existing web page. The goal is to start th
 # Skills
 - Html5
 - CSS3
-    -Flexbox
+   - Flexbox
